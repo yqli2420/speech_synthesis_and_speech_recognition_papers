@@ -1,2 +1,2 @@
-# tts_papers
+# tts_papers :text to speech papers, speech synthesis
 tts papers: http://yqli.tech/page/tts_paper.html
